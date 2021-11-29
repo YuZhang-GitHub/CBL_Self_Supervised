@@ -16,4 +16,4 @@ If you have any problems with generating the figure, please contact [Yu Zhang](h
 
 # License and Referencing
 This code package is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you in any way use this code for research that results in publications, please cite our original article:
-> Y. Zhang, M. Alrabeiah, and A. Alkhateeb, “[Deep Learning for Massive MIMO with 1-Bit ADCs: When More Antennas Need Fewer Pilots](https://arxiv.org/abs/1910.06960),” arXiv e-prints, p. arXiv:1910.06960, Oct 2019.
+> Muhammad Alrabeiah, Yu Zhang, and Ahmed Alkhateeb, “[Neural Networks Based Beam Codebooks: Learning mmWave Massive MIMO Beams that Adapt to Deployment and Hardware](https://arxiv.org/pdf/2006.14501),” arXiv e-prints, p. arXiv:2006.14501, Jun 2020.

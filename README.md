@@ -10,7 +10,7 @@ Update: Many people encountered and reported problems in downloading and using *
 3. Run `main.m` in MATLAB.
 4. When `main.m` finishes, execute `Fig3_Generator.m`, which will give Figure 3 shown below as result.
 
-![Figure3](https://github.com/YuZhang-GitHub/1-Bit-ADCs/blob/master/SNR.png)
+![Figure3](https://github.com/YuZhang-GitHub/CBL_Self_Supervised/blob/master/codebook_64.png)
 
 If you have any problems with generating the figure, please contact [Yu Zhang](https://www.linkedin.com/in/yu-zhang-391275181/).
 

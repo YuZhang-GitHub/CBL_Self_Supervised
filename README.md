@@ -6,9 +6,8 @@ Millimeter wave (mmWave) and massive MIMO systems are intrinsic components of 5G
 # How to generate this codebook beam patterns figure?
 1. Download all the files of this repository.
 <!--Update: Many people encountered and reported problems in downloading and using **Raw_Data_BS32_2p4GHz_1Path.mat**. Please use [this link](https://drive.google.com/file/d/1CXwReLlqdbiAk3xVxNFEBAq0poaN6CE6/view?usp=sharing) to download the data file.-->
-2. Create two empty folders at the same directory as the downloaded codes and name them "**Networks**" and "**Data**" respectively. As the names indicate, "**Networks**" will store the trained neural networks and "**Data**" will store the predicted channels for evaluations.
-3. Run `main.m` in MATLAB.
-4. When `main.m` finishes, execute `Fig3_Generator.m`, which will give Figure 3 shown below as result.
+2. Run `main.py`.
+3. When `main.py` finishes, execute `Fig3_Generator.m`, which will give Figure 3 shown below as result.
 
 ![Figure](https://github.com/YuZhang-GitHub/CBL_Self_Supervised/blob/master/codebook_64.png)
 

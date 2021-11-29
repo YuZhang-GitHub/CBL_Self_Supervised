@@ -5,9 +5,9 @@ Millimeter wave (mmWave) and massive MIMO systems are intrinsic components of 5G
 
 # How to generate this codebook beam patterns figure?
 1. Download all the files of this repository.
-<!--Update: Many people encountered and reported problems in downloading and using **Raw_Data_BS32_2p4GHz_1Path.mat**. Please use [this link](https://drive.google.com/file/d/1CXwReLlqdbiAk3xVxNFEBAq0poaN6CE6/view?usp=sharing) to download the data file.-->
 2. Run `main.py`.
-3. When `main.py` finishes, execute `Fig3_Generator.m`, which will give Figure 3 shown below as result.
+3. When `main.py` finishes, load `theta_self_sup_64beams.mat` in Matlab.
+4. Run `plot_pattern((1/sqrt(size(codebook,1)))*exp(1j*codebook))` in Matlab Command Window, which will give the codebook beam patterns figure as shown below.
 
 ![Figure](https://github.com/YuZhang-GitHub/CBL_Self_Supervised/blob/master/codebook_64.png)
 
